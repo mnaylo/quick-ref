@@ -26,3 +26,12 @@ You can rename files and folders with the mv command. Its primary purpose is mov
 * $ mv (option) filename1.ext filename2.ext
 
 *Where “filename1.ext” is the original, “old” name of the file, and “filename2.ext” the new name.*
+
+## Shut down or reboot using terminal
+For shutdown:
+
+* $ sudo poweroff
+
+For restart:
+
+* $ sudo reboot
